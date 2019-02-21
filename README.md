@@ -1,2 +1,1 @@
-# TinDog
-Dog dating website - Tinder spoof
+TinDog Starting Files
